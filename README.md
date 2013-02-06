@@ -18,5 +18,8 @@ Funciones básicas:
 - Obtener humedad relativa de la muestra en tanto por ciento (%).
 - Obtener el llamado dew point.
 
+Instrucciones:
+- Descomprimir el directorio rDHT11 de tal forma que quede arduino-x.x.x/libraries/rDHT11/
+
 Más información y ejemplos en:
 http://rduinostar.com/documentacion/componentes/rdht11-libreria-para-dht11/
